@@ -62,8 +62,8 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
+|Jennifer Kovacs | Agnes Scott College | jkovacs@agnesscott.edu | echinodermatamata|
+|James Watling|John Carrol University|jwatling@jcu.edu |jwatling |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
