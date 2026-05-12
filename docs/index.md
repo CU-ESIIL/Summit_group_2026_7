@@ -1,5 +1,5 @@
 ---
-title: Team Home
+title: AI and Education in Environmental Science
 public_mode_toggle: true
 ---
 
