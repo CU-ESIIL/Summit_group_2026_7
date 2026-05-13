@@ -22,7 +22,7 @@ public_mode_toggle: true
 # Team 7 Home: Make Me Your Own
 
 !!! note "Day 1 directions"
-    Change the title to the name of your project.
+    AI and Education in Environmental Science
 
     [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_7/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
 
