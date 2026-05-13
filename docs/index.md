@@ -108,12 +108,14 @@ Given our small group size, we expect to make decisions by mutual agreement (to 
 
 Short term:
 
-...
+Create the framework for AI and Environmental Science modules. Focus on the skill-building aspects of AI use in environmental science.
+Build an example of a module that fits this template to demonstrate how to teach AI along with data inquiry and exploration 
 
 Long term:
 
-- ...
-- ...
+- Recruit instructors to form a working group and build their own modules and case uses at the QUBES BIOME summer meeting in June
+- Teach an AI module using Roo & NEON's flux data in the next academic year 
+- Plan for an ESIIL working group to connect more faculty with content experts to create teaching modules for AI and Env Sci
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
