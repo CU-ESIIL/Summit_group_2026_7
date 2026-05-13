@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 7 Home: Make Me Your Own
+# Team 7: AI and Education in Environmental Science
 
 !!! note "Day 1 directions"
     AI and Education in Environmental Science
