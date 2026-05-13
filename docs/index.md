@@ -141,22 +141,26 @@ Communication as synthesis: The end point of the module is not only analysis, bu
 Adaptability: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
-What would count as progress:
 
-...
 
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
+
+
+##Intentions
+
+Create a collection of modular teaching modules that teaches good AI practices along with data inquiry
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
 
-...
+It keeps human scientific judgment at the center by starting from trusted datasets and using AI tools to explain and modify code, which foregrounds verification, uncertainty, and reproducibility.
+
+Links AI literacy to core disciplinary outcomes (carbon cycling, data skills, communication) and to the environmental footprint of computation itself via prompt/energy tracking, so students learn to treat AI use as a choice with trade‑offs.
 
 People who could use this:
 
-...
+Environmental science, ecology, and sustainability faculty who want to integrate AI into existing data‑rich labs (NEON, flux, water quality, biodiversity) without rebuilding their courses from scratch.
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
