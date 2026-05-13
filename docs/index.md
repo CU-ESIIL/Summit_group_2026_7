@@ -87,13 +87,15 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Get all ideas on the table but don't be afraid to express a contradictory opinion
+- Norms are an ongoing conversation
+- Group decision making
+- Respect individual and collective timelines and availability
+- Discuss & disclose use of AI
 
 Our decision making strategy:
 
-...
+Given our small group size, we expect to make decisions by mutual agreement (to be revisted if/as group evolves)
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
