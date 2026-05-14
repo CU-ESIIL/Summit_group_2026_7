@@ -163,7 +163,6 @@ Create a collection of modular teaching activites that teach environmental scien
 
 All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
 
-<br>
 
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
 
@@ -173,7 +172,6 @@ All modules share four overarching learning goals emphasizing content knowledge,
 
 All modules share a common structure, beginning with an introduction to the environmental theme for the module, leading to a guided inquiry component where both data literacy and AI collaboration are emphasized, and ending with synthesis/reflection and communication component:
 
-<br>
 
 ![Method or workflow visual](assets/figures/Module structure Figure.png)
 
@@ -184,13 +182,14 @@ All modules share a common structure, beginning with an introduction to the envi
 
 [Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} **Module Template**
 
-<br>
 
 [Click here](assets/examples/Module_structure_A-B-C.pdf){:target="_blank"} **Module Structure**
 
+<br>
+<br>
 
 
-###**In-progress example module**: The Carbon Remix: scaling carbon insights with an AI collaborator
+###In-progress example module: **The Carbon Remix: scaling carbon insights with an AI collaborator**
 
 ####This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
