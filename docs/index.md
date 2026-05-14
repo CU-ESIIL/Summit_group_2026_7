@@ -122,9 +122,9 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-#Defining features of our module development:
+###Defining features of our module development:
 
-#Each module in the network should include five core elements:
+###Each module in the network should include five core elements:
 
 1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
@@ -136,9 +136,9 @@ Long term:
 
 5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
 
-#Module design principles
+###Module design principles
 
-#All modules in the network should be built around the following principles:
+###All modules in the network should be built around the following principles:
 
 **Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
 
