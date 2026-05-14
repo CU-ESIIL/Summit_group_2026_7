@@ -375,16 +375,17 @@ Building human-in-the-loop habits now — verify outputs, document prompts, trac
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
 Short term:
-
-- ...
+- Present a Work-in-Progress poster at the QUBES BIOME Summer Meeting and recruit for a fall working group
+- Pilot the Source or Sink? module in a course this academic year and document the student experience
 
 Long term:
+- Build a working group of PUI environmental science faculty developing and sharing modules across data types and AI tools — not LLM-only
+- Apply for an ESIIL Working Group to connect faculty with data infrastructure experts and scale module development across institutions
 
-- ...
-
-Who should see this next
-
-- ...
+Who should see this next:
+- Do you have a data-set that you think would be awesome for this kind of teaching module? Let us know!
+- Environmental and ecology researchers who supervise undergraduates or early-career scientists working with large observational datasets
+- NEON, LTER, and other open data network education staff
 
 ## Cite & Reuse { #cite-reuse }
 
