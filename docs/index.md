@@ -311,39 +311,6 @@ This template is designed to work with **any AI tool** — large language models
 Modules should meet the [EDDIE module rubric](https://serc.carleton.edu/eddie/teaching_materials/community_use/module_development.html) before the AI layer is added. If your module doesn't yet work as a standard EDDIE module, start there first.  
 
 
-*Snapshot showing initial data patterns.*
-
-Promising data sources:
-
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
-
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
-
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_7/tree/main/code){ .md-button }
-
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-
-### Challenges identified
-
-- ...
-- ...
-
-### Visuals
-
-
 
 ### Next Steps
 
@@ -358,10 +325,6 @@ Apply to an ESIIL Working Group around developing AI-assisted Data-Inquiry Teach
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_7/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
-
-
-
-*Team members and collaborators who contributed to this project.*
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
