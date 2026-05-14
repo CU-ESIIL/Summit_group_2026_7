@@ -159,10 +159,10 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-[Download Word Document]([docs/assets/examples/Module%20Template%20Description.docx]
+[Open Document]([docs/assets/examples/Module 20Template 20Description.docx]
 
 
-[Download Word Document]([docs/assets/examples/Module%structure%A-B-C.docx]
+[Open Document]([docs/assets/examples/Module structure A-B-C.docx]
 
 
 
