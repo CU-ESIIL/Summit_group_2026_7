@@ -109,7 +109,7 @@ Given our small group size, we expect to make decisions by mutual agreement (to 
 Short term:
 
 - Create the framework for guided-inquiry learning modules for the undergraduate environmental science classroom that teach environmental content, data literacy, and AI skills
--Build an example module using our framework 
+- Build an example module using our framework 
 
 Long term:
 
