@@ -217,14 +217,92 @@ People who could use this:
 
 Environmental science, ecology, and sustainability faculty who want to integrate AI into existing data‑rich labs (NEON, flux, water quality, biodiversity) without rebuilding their courses from scratch.
 
-## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
+## Want to develop a module to add to our collection-- here's a template
 
-!!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
+# AI-Enhanced Environmental Data Inquiry Module Template
 
-    Add 2-4 promising data sources (links +1-line notes)    
+An extension of the [Project EDDIE](https://serc.carleton.edu/eddie/index.html) A-B-C framework that layers AI tool use into data-driven environmental inquiry. Modules follow standard EDDIE design — authentic public datasets, quantitative reasoning, scaffolded independence — with an added strand for critical AI literacy.
 
-![Exploration figure](assets/explorations/explore_data_plot.png)
+---
+
+## Module Overview
+
+| | |
+|---|---|
+| **Scientific question** | |
+| **Dataset** | |
+| **AI tool(s)** | |
+| **Audience** | |
+| **Time** | |
+| **Prerequisites** | |
+
+### Learning Objectives
+By the end of this module, students will be able to:
+
+- *[Environmental understanding]* Explain...
+- *[Quantitative reasoning]* Analyze and interpret...
+- *[AI literacy]* Use an AI tool strategically, evaluate its outputs critically, and document how it supported their work.
+- *[Communication]* Synthesize findings and communicate them for a defined audience.
+
+---
+
+## Part A — Introductory
+*Instructor-guided. Students build scientific context, explore the dataset, and complete bounded AI-supported tasks with explicit verification.*
+
+Students will:
+- Explore the scientific question and relevant environmental concepts
+- Orient to the dataset structure, variables, and known limitations
+- Complete 1–2 guided interactions with the AI tool using provided scaffolds
+- Verify AI outputs against data or metadata before accepting them
+
+> **AI addition:** Students compare an AI-generated response to the raw data or metadata and note where it was accurate, incomplete, or wrong.
+
+---
+
+## Part B — Exploratory
+*Increasing independence. Students investigate a self-directed question, use AI selectively, and check reasoning with peers.*
+
+Students will:
+- Refine or choose a research question appropriate to the dataset
+- Conduct data exploration, visualization, and analysis
+- Use the AI tool to support selected steps (e.g., code generation, pattern interpretation, literature context)
+- Review and critique AI outputs before incorporating them
+- Discuss findings and AI use with peers
+
+> **AI addition:** Students must record a pre-AI observation before using the tool for any analytical step, then compare it to AI output afterward.
+
+---
+
+## Part C — Advanced
+*Student-driven. Students make independent choices about data, analysis, and communication; reflect explicitly on AI use.*
+
+Students will:
+- Choose a data subset, analysis approach, or comparison site to extend their question
+- Produce a communication product for a defined audience
+- Include an AI transparency statement: what the tool contributed and where human judgment was essential
+
+> **AI addition:** Students reflect on how AI shaped their inquiry — what it accelerated, what it got wrong, and what they would do differently.
+
+---
+
+## Required Module Materials
+*(Consistent with EDDIE module standards)*
+
+- [ ] Student handout
+- [ ] Instructor guide with answer key
+- [ ] Dataset package with metadata and quality notes
+- [ ] AI use guide — defines permitted uses and prompt logging requirements
+- [ ] Verification checklist — students confirm AI outputs against data before using them
+- [ ] Assessment rubric aligned to learning objectives
+
+---
+
+## Notes for Developers
+
+This template is designed to work with **any AI tool** — large language models, image classifiers, species identification tools, anomaly detectors, or others. The AI literacy strand is tool-agnostic: the core skills (provide context, evaluate output, verify against source, document use) apply regardless of the specific technology.
+
+Modules should meet the [EDDIE module rubric](https://serc.carleton.edu/eddie/teaching_materials/community_use/module_development.html) before the AI layer is added. If your module doesn't yet work as a standard EDDIE module, start there first.  
+
 
 *Snapshot showing initial data patterns.*
 
