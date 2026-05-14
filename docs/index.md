@@ -172,10 +172,10 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-[Open Document](docs/assets/examples/Module_Template_Description.docx)
+[Open Document](assets/examples/Module_Template_Description.docx)
 
 
-[Open Document](docs/assets/examples/Module_structure_A-B-C.docx)
+[Open Document](assets/examples/Module_structure_A-B-C.docx)
 
 
 
