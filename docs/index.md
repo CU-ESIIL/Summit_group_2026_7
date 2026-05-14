@@ -357,17 +357,14 @@ Apply to an ESIIL Working Group around developing AI-assisted Data-Inquiry Teach
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+Headline 1 — Training the next generation of environmental data scientists requires teaching AI as a scientific skill, not a shortcut
+Students working with authentic environmental datasets — flux towers, water quality sensors, biodiversity surveys — quickly discover that AI outputs are only as good as the context they are given. The same critical habits that make a good data scientist make a good AI user.
 
-...
+Headline 2 — Faculty don't need to rebuild their courses — they need a retrofit
+A working framework, a shared template, and one worked example show that AI literacy can be layered into existing data inquiry modules without displacing the environmental science. The scaffold stays the same; the AI strand runs through it.
 
-Headline 2 — change/trend/contrast
-
-...
-
-Headline 3 — implication for practice or policy
-
-...
+Headline 3 — The next cohort of environmental scientists will use AI whether we teach it or not — the question is whether they'll use it well
+Building human-in-the-loop habits now — verify outputs, document prompts, trace claims back to data — is the difference between students who are empowered by AI tools and students who are misled by them.
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
