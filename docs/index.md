@@ -159,8 +159,14 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-Add links to docs here
+[Download Word Document]([docs/assets/examples/Module%20Template%20Description.docx]
 
+
+[Download Word Document]([docs/assets/examples/Module%structure%A-B-C.docx]
+
+
+
+In-progress example module: The Carbon Remix: scaling carbon insights with an AI collaborator
 
 
 
