@@ -122,7 +122,7 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-###Defining features of our module development:
+##Defining features of our module development
 
 ###Each module in the network should include five core elements:
 
@@ -136,7 +136,8 @@ Long term:
 
 5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
 
-###Module design principles
+
+##Module design principles
 
 ###All modules in the network should be built around the following principles:
 
@@ -172,14 +173,19 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-[Open Document](assets/examples/Module_Template_Description.docx)
+[Open Document](assets/examples/Module_Template_Description.docx) **Module Template**
 
 
-[Open Document](assets/examples/Module_structure_A-B-C.docx)
+[Open Document](assets/examples/Module_structure_A-B-C.docx) **Module Structure**
 
 
 
-In-progress example module: The Carbon Remix: scaling carbon insights with an AI collaborator
+##**In-progress example module**: The Carbon Remix: scaling carbon insights with an AI collaborator
+
+###This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
+
+**Student handout
+**Code file
 
 
 
