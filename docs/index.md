@@ -136,7 +136,7 @@ Long term:
 5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
 
 
-##Module design principles
+<br>
 
 ###All modules in the network should be built around the following principles:
 
