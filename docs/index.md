@@ -184,8 +184,8 @@ All modules share a common structure, beginning with an introduction to the envi
 
 ###This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
-**Student handout
-**Code file
+[Open Document](assets/examples/Carbon remix- student example.docx) **Student handout**
+[Open Document](assets/examples/Carbon flux code example.ipynb.docx)**Code file**
 
 
 
