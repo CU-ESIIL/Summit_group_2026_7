@@ -191,15 +191,15 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-###In-progress example module: **Sink or Source? Exploring Forest Carbon Dynamics with NEON Data and AI **
+###Example Module: **Sink or Source? Exploring Forest Carbon Dynamics with NEON Data and AI **
 
 This module, titled "Sink or Source?," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
-#This includes Colab code to analyze NEON data, we turn Gemini from a generic chatbot into a grounded scientific collaborator. 
+This includes Colab code to analyze NEON data, we turn Gemini from a generic chatbot into a grounded scientific collaborator. 
 
 We connect to the API, then build a context block that packages up everything Gemini needs to give useful answers — the site name, variable descriptions, actual data values, and summary statistics from our NEON dataset. And the student handout explains what we've done and why it is important.
 
-#From this point on, every student question to Gemini arrives pre-loaded with that context, so it responds like a knowledgeable colleague who has already read the data, not like a search engine returning textbook definitions.
+From this point on, every student question to Gemini arrives pre-loaded with that context, so it responds like a knowledgeable colleague who has already read the data, not like a search engine returning textbook definitions.
 
 <br>
 
