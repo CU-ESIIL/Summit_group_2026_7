@@ -122,7 +122,7 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-##Defining features of our module development
+###Defining features of our module development
 
 ###Each module in the network should include five core elements:
 
@@ -141,17 +141,17 @@ Long term:
 
 ###All modules in the network should be built around the following principles:
 
-**Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
+**1. Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
 
-**Authentic data use**: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
+**2. Authentic data use**: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
 
-**Scaffolded independence**: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
+**3. Scaffolded independence**: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
 
-**Human oversight of AI**: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
+**4. Human oversight of AI**: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
 
-**Communication as synthesis**: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
+**5. Communication as synthesis**: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
 
-**Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
+**6. Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
 
@@ -163,21 +163,28 @@ Create a collection of modular teaching activites that teach environmental scien
 
 All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
 
+<br>
+
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
 
 
-
+<br>
+<br>
 
 All modules share a common structure, beginning with an introduction to the environmental theme for the module, leading to a guided inquiry component where both data literacy and AI collaboration are emphasized, and ending with synthesis/reflection and communication component:
 
+<br>
 
 ![Method or workflow visual](assets/figures/Module structure Figure.png)
 
 
+<br>
+<br>
 
 
 [Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} **Module Template**
 
+<br>
 
 [Click here](assets/examples/Module_structure_A-B-C.pdf){:target="_blank"} **Module Structure**
 
@@ -187,7 +194,12 @@ All modules share a common structure, beginning with an introduction to the envi
 
 ####This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
+<br>
+
 [Click here](assets/examples/Carbon_remix_student_example.pdf){:target="_blank"} **Student handout**
+
+<br>
+
 [Click here](assets/examples/Carbon_flux_code_example.ipynb){:target="_blank"} **Code file**
 
 
