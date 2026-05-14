@@ -203,7 +203,12 @@ Methods/technologies we are testing:
 
 ### Visuals
 
+All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
+
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+
+
+All modules share a common structure, beginning with an introduction to the environmental theme for the module, leading to a guided inquiry component where both data literacy and AI collaboration are emphasized, and ending with synthesis/reflection and communication component:
 
 ![Method or workflow visual](assets/figures/Module structure Figure.png)
 
