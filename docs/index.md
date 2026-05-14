@@ -341,8 +341,10 @@ Methods/technologies we are testing:
 ### Next Steps
 
 Short term: 
-
+We have applied to present a Work In Progress Poster at the upcoming QUBES BIOME Summer Meeting and will recruit for a QUBES Fall Working Group
 Long term: 
+Apply to an ESIIL Working Group around developing AI-assisted Data-Inquiry Teaching Modules
+ 
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
@@ -350,9 +352,7 @@ Long term:
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_7/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
 
-## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_photo.jpg)
 
 *Team members and collaborators who contributed to this project.*
 
