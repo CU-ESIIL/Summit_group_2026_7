@@ -339,9 +339,12 @@ Building human-in-the-loop habits now — verify outputs, document prompts, trac
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result.png)
+![Learning goals](assets/figures/AI-Envirnonment learning goals.png)
+*Four learning goals, one module: environmental understanding, data literacy, AI literacy, and communication develop together — not as separate add-ons.*
 
-*Visual 1: the main pattern or output we want people to remember.*
+![Module structure](assets/figures/module_design_table.png)
+*The module arc: environmental theme → guided data and AI inquiry → synthesis and communication. The human-in-the-loop requirement runs through every stage.*
+
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
