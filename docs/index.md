@@ -122,7 +122,6 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-###Defining features of our module development
 
 ###Each module in the network should include five core elements:
 
