@@ -173,10 +173,11 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-[Open Document](assets/examples/Module_Template_Description.docx) **Module Template**
+
+[Click here](assets/examples/Module_Template_Description.docx){:target="_blank"} **Module Template**
 
 
-[Open Document](assets/examples/Module_structure_A-B-C.docx) **Module Structure**
+[Click here](assets/examples/Module_structure_A-B-C.docx){:target="_blank"} **Module Structure**
 
 
 
@@ -184,8 +185,8 @@ All modules share a common structure, beginning with an introduction to the envi
 
 ###This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
-[Open Document](assets/examples/Carbon_remix_student_example.docx) **Student handout**
-[Open Document](assets/examples/Carbon_flux_code_example.ipynb)**Code file**
+[Click here](assets/examples/Carbon_remix_student_example.docx){:target="_blank"} **Student handout**
+[Click here](assets/examples/Carbon_flux_code_example.ipynb){:target="_blank"} **Code file**
 
 
 
