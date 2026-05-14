@@ -117,9 +117,8 @@ Long term:
 - Teach an AI module using Colab & Gemini & NEON's flux data in the next academic year 
 - Plan for an ESIIL working group to connect more faculty with content experts to create teaching modules for AI and Env Sci
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
-*Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
+
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -142,12 +141,28 @@ Adaptability: Instructors should be able to teach the full module, shorten it, o
 
 
 
-
-
-
 ##Intentions
 
 Create a collection of modular teaching modules that teaches good AI practices along with data inquiry
+
+
+All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
+
+![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+
+
+
+All modules share a common structure, beginning with an introduction to the environmental theme for the module, leading to a guided inquiry component where both data literacy and AI collaboration are emphasized, and ending with synthesis/reflection and communication component:
+
+
+![Method or workflow visual](assets/figures/Module structure Figure.png)
+
+
+
+Add links to docs here
+
+
+
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
@@ -203,14 +218,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
 
-![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
-
-
-All modules share a common structure, beginning with an introduction to the environmental theme for the module, leading to a guided inquiry component where both data literacy and AI collaboration are emphasized, and ending with synthesis/reflection and communication component:
-
-![Method or workflow visual](assets/figures/Module structure Figure.png)
 
 ### Next Steps
 
