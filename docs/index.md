@@ -122,22 +122,35 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-Defining features of our module development:
-Each module in the network should include five core elements:
-An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
-A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
-An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
-A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
-A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
+#Defining features of our module development:
 
-Module design principles
-All modules in the network should be built around the following principles:
-Question-driven inquiry: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
-Authentic data use: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
-Scaffolded independence: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
-Human oversight of AI: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
-Communication as synthesis: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
-Adaptability: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
+#Each module in the network should include five core elements:
+
+1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
+
+2. A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
+
+3. An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
+
+4. A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
+
+5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
+
+#Module design principles
+
+#All modules in the network should be built around the following principles:
+
+**Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
+
+**Authentic data use**: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
+
+**Scaffolded independence**: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
+
+**Human oversight of AI**: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
+
+**Communication as synthesis**: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
+
+**Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
 
