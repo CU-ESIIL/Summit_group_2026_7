@@ -108,8 +108,8 @@ Given our small group size, we expect to make decisions by mutual agreement (to 
 
 Short term:
 
-- Create the framework for AI and Environmental Science modules. Focus on the skill-building aspects of AI use in environmental science.
-Build an example of a module that fits this template to demonstrate how to teach AI along with data inquiry and exploration 
+- Create the framework for guided-inquiry learning modules for the undergraduate environmental science classroom that teach environmental content, data literacy, and AI skills
+-Build an example module using our framework 
 
 Long term:
 
