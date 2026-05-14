@@ -203,7 +203,9 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](assets/figures/figure1.png)
+![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+
+![Method or workflow visual](assets/figures/Module structure Figure.png)
 
 ### Next Steps
 
