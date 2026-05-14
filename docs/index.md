@@ -339,7 +339,7 @@ Building human-in-the-loop habits now — verify outputs, document prompts, trac
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Learning goals](assets/examples/AI-Envirnonment learning goals.png)
+![Learning goals](assets/figures/AI-Envirnonment learning goals.png)
 *Four learning goals, one module: environmental understanding, data literacy, AI literacy, and communication develop together — not as separate add-ons.*
 
 ![Module structure](assets/examples/module_design_table.png)
