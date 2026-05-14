@@ -108,7 +108,7 @@ Given our small group size, we expect to make decisions by mutual agreement (to 
 
 Short term:
 
-Create the framework for AI and Environmental Science modules. Focus on the skill-building aspects of AI use in environmental science.
+- Create the framework for AI and Environmental Science modules. Focus on the skill-building aspects of AI use in environmental science.
 Build an example of a module that fits this template to demonstrate how to teach AI along with data inquiry and exploration 
 
 Long term:
@@ -157,12 +157,14 @@ Long term:
 
 ##Intentions
 
-Create a collection of modular teaching modules that teaches good AI practices along with data inquiry
+Create a collection of modular teaching activites that teach environmental science content, good AI practices, guided inquiry using real data, and effective communication
+
 
 
 All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
 
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+
 
 
 
@@ -181,9 +183,9 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-##**In-progress example module**: The Carbon Remix: scaling carbon insights with an AI collaborator
+###**In-progress example module**: The Carbon Remix: scaling carbon insights with an AI collaborator
 
-###This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
+####This module, titled "The Carbon Remix," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
 
 [Click here](assets/examples/Carbon_remix_student_example.docx){:target="_blank"} **Student handout**
 [Click here](assets/examples/Carbon_flux_code_example.ipynb){:target="_blank"} **Code file**
