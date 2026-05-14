@@ -123,7 +123,7 @@ Long term:
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 
-###Each module in the network should include five core elements:
+###Our framework includes these five core elements:
 
 1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
