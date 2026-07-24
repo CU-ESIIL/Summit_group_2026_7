@@ -38,9 +38,7 @@ public_mode_toggle: true
 
 ![Team hero image](assets/hero/AI sustainability.jpg)
 
-<!--
-![Team hero image](assets/hero/AI-Environment learning goals.png
--->
+
 <!--
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
@@ -173,9 +171,9 @@ These principles ultimately led us to a five-point framework for the development
 <br>
 
 
-<!--
+
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
--->
+
 
 <br>
 
