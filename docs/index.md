@@ -2,7 +2,7 @@
 title: AI and Education in Environmental Science
 public_mode_toggle: true
 ---
-
+<!--
 !!! tip "How to use this page during the Summit"
     - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others. 
     
@@ -18,9 +18,9 @@ public_mode_toggle: true
 
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
-
+-->
 # Team 7: AI and Education in Environmental Science
-
+<!--
 !!! note "Day 1 directions"
     AI and Education in Environmental Science
 
@@ -41,7 +41,7 @@ public_mode_toggle: true
     
     Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
     Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
-
+-->
     [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_7/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 
