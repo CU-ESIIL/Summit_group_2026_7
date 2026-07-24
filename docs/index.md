@@ -39,7 +39,7 @@ public_mode_toggle: true
 ![Team hero image](assets/hero/AI sustainability.jpg)
 -->
 
-![Team hero image](assets/figures/AI-Environment learning goals.png
+![Team hero image](assets/hero/AI-Environment learning goals.png
 
 <!--
 !!! note "How to replace the image above"
