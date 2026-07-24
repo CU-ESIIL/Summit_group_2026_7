@@ -99,6 +99,12 @@ Our decision making strategy:
 Given our small group size, we expect to make decisions by mutual agreement (to be revisted if/as group evolves)
 -->
 
+## Overview
+
+We are a small team of teacher-scholars at Primarily Ungergraduate Institutions (PUIs) in the United States who share a few common values: the belief that, as educators, we need to continually upskill in AI so that we can prepare students for the AI workplace; the need to critically engage with the range of issues related to AI (ethical, environmental, and otherwise); the importance of centering humans in the AI collaboration. As AI reshapes the education and industry landscape, we have two overarching goals: (1) teach students best practices for effective collaboration with AI, and (2) integrated and organic use of AI to teach subject matter content. At the ESIIL Innovation Summit in May 2026, we created a framework for developing assignments that meet those goals, which we describe in detail below. Currently (Summer/Fall 2026), we are focused on developing additional assignments that meet our twin goals goals, and piloting them in our classrooms.  
+
+Our teaching interests are rooted in environmental biology, but we welcome collaborators from across the environmental field. If you are interested in developing an assignment using our framework, or expanding the ways we integrate AI into our classrooms, please reach out to Jen and James to start the conversation.  
+
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "Day 2 Tasks"
