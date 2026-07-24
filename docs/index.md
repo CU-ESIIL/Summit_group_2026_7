@@ -35,7 +35,11 @@ public_mode_toggle: true
     
 -->
 
+<!--
 ![Team hero image](assets/hero/AI sustainability.jpg)
+-->
+
+![Team hero image](assets/figures/AI-Envirnonment learning goals.png
 
 <!--
 !!! note "How to replace the image above"
@@ -156,19 +160,22 @@ Inspired by other inquiry-based, student-centered approaches to active learning,
 
 These principles ultimately led us to a five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
 
-**1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.**
+**1. An environmental theme**, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
-**2. A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.**
+**2. A data component** built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
 
-**3. An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.**
+**3. An AI-facilitated component** in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
 
-**4. A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.**
+**4. A human-in-the-loop structure** in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
 
-**5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.**
+**5. A synthesis and communication component** in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
 
 <br>
 
+
+<!--
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+-->
 
 <br>
 
@@ -203,8 +210,8 @@ All modules share a common structure, beginning with an introduction to the envi
 
 [Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} **Module Template**
 
-
 [Click here](assets/examples/Module_structure_A-B-C.pdf){:target="_blank"} **Module Structure**
+
 
 <br>
 <br>
