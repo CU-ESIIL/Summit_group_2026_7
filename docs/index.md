@@ -65,6 +65,7 @@ public_mode_toggle: true
 |Jennifer Kovacs | Agnes Scott College | jkovacs@agnesscott.edu | echinodermatamata|
 |James Watling|John Carrol University|jwatling@jcu.edu |jwatling |
 
+<!--
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Day 1 task"
@@ -96,6 +97,7 @@ Our team norms:
 Our decision making strategy:
 
 Given our small group size, we expect to make decisions by mutual agreement (to be revisted if/as group evolves)
+-->
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
