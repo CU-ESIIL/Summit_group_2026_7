@@ -36,7 +36,7 @@ public_mode_toggle: true
 -->
 
 
-![Team hero image](assets/hero/AI sustainability.jpg)
+![Team hero image](assets/hero/AI-Environment learning goals.png)
 
 
 <!--
