@@ -103,7 +103,7 @@ Our decision making strategy:
 Given our small group size, we expect to make decisions by mutual agreement (to be revisted if/as group evolves)
 -->
 
-## Overview
+## Project Overview
 
 We are a small team of teacher-scholars at Primarily Ungergraduate Institutions (PUIs) in the United States who share a few common values: the belief that, as educators, we need to continually upskill in AI so that we can prepare students for the AI workplace; the need to critically engage with the range of issues related to AI (ethical, environmental, and otherwise); and the importance of centering humans in the AI collaboration. 
 
@@ -111,6 +111,7 @@ As AI reshapes the education and industry landscape, we have two overarching goa
 
 Our teaching interests are rooted in environmental biology, but we welcome collaborators from across the environmental field. If you are interested in developing an assignment using our framework, or expanding the ways we integrate AI into our classrooms, please reach out to Jen and James to start the conversation.  
 
+<!--
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "Day 2 Tasks"
@@ -130,14 +131,28 @@ Long term:
 - Recruit instructors to form a working group and build their own modules and case uses at the QUBES BIOME summer meeting in June
 - Teach an AI module using Colab & Gemini & NEON's flux data in the next academic year 
 - Plan for an ESIIL working group to connect more faculty with content experts to create teaching modules for AI and Env Sci
+-->
 
 
+## The framework 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 
-## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
+Inspired by other inquiry-based, student-centered approaches to active learning, including Project EDDIE [https://serc.carleton.edu/eddie/index.html] and BCEENET [https://bceenetwork.org/], we are guided by several core principles:
+
+**1. Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
+
+**2. Authentic data use**: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
+
+**3. Scaffolded independence**: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
+
+**4. Human oversight of AI**: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
+
+**5. Communication as synthesis**: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
+
+**6. Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
-###Our framework includes these five core elements:
+These principles ultimately led us to a five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
 
 1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
@@ -154,17 +169,6 @@ Long term:
 
 ###All modules in the network should be built around the following principles:
 
-**1. Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
-
-**2. Authentic data use**: Students work with real environmental data rather than toy examples so that they experience uncertainty, variation, and limits of interpretation.
-
-**3. Scaffolded independence**: The module should move from guided work to greater student independence, following the EDDIE logic that early activities provide structure and later activities increase student choice and responsibility.
-
-**4. Human oversight of AI**: AI use must never stand alone; students should document prompts, inspect outputs, verify claims, and revise work based on disciplinary evidence.
-
-**5. Communication as synthesis**: The end point of the module is not only analysis, but communication of evidence-based conclusions in an audience-appropriate form.
-
-**6. Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
 
