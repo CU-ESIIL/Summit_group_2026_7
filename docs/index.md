@@ -156,7 +156,7 @@ Inspired by other inquiry-based, student-centered approaches to active learning,
 
 <br>
 
-These principles ultimately led us to a five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
+These principles ultimately led us to the following five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
 
 **1. An environmental theme**, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
@@ -171,9 +171,16 @@ These principles ultimately led us to a five-point framework for the development
 <br>
 
 
+[Click here](assets/examples/Module_structure_A-B-C.pdf){:target="_blank"} for a downloadable pdf of the framework using the A-B-C structure of the EDDIE modules. 
 
+
+
+If you are interested in developing an assignment using our framework, please [Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} for a downloadable template.
+
+
+<!--
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
-
+-->
 
 <br>
 
@@ -206,9 +213,6 @@ All modules share a common structure, beginning with an introduction to the envi
 
 -->
 
-[Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} **Module Template**
-
-[Click here](assets/examples/Module_structure_A-B-C.pdf){:target="_blank"} **Module Structure**
 
 
 <br>
@@ -218,11 +222,14 @@ All modules share a common structure, beginning with an introduction to the envi
 
 
 
-###Example Module: **Sink or Source? Exploring Forest Carbon Dynamics with NEON Data and AI **
+## Applying the Framework
 
-This module, titled "Sink or Source?," guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
-This includes Colab code to analyze NEON data, we turn Gemini from a generic chatbot into a grounded scientific collaborator. 
-We connect to the API, then build a context block that packages up everything Gemini needs to give useful answers — the site name, variable descriptions, actual data values, and summary statistics from our NEON dataset. And the student handout explains what we've done and why it is important.
+We used the framework described above to create as assignment called 'Sink or Source? Exploring Forest Carbon Dynamics with NEON Data and AI'
+
+This assignment, intended for use in a 75 minute class, guides students through investigating ecosystem carbon exchange by transitioning from following a standard scientific tutorial to becoming active "Code Editors" with an AI assistant. Using authentic data from the National Ecological Observatory Network (NEON), students collaborate with an AI assistant to modify code, analyze environmental variables like temperature or light, critically validate the AI's output through a human-in-the-loop workflow, and reflect and report on their observations.
+
+Using the Google Colab platform to analyze NEON data, we convert Gemini from a generic chatbot into a grounded scientific collaborator. We connect to the API, then build a context block that packages up everything Gemini needs to give useful answers — the site name, variable descriptions, actual data values, and summary statistics from our NEON dataset. And the student handout explains what we've done and why it is important.
+
 From this point on, every student question to Gemini arrives pre-loaded with that context, so it responds like a knowledgeable colleague who has already read the data, not like a search engine returning textbook definitions.
 
 <br>
@@ -234,7 +241,7 @@ From this point on, every student question to Gemini arrives pre-loaded with tha
 [Click here](assets/examples/Carbon_flux_code_example.ipynb){:target="_blank"} **Code file**
 
 
-
+## Everything from here down needs revision/development
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
