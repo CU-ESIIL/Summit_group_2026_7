@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 -->
-# Team 7: AI and Education in Environmental Science
+# AI and Education in Environmental Science
 <!--
 !!! note "Day 1 directions"
     AI and Education in Environmental Science
@@ -134,7 +134,7 @@ Long term:
 -->
 
 
-## The framework { #project-question .oasis-report-out-section .oasis-report-out-day2 }
+## Our Framework { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 
 Inspired by other inquiry-based, student-centered approaches to active learning, including [Project EDDIE] (https://serc.carleton.edu/eddie/index.html) and [BCEENET] (https://bceenetwork.org/), we are guided by several core principles:
@@ -156,16 +156,17 @@ Inspired by other inquiry-based, student-centered approaches to active learning,
 
 These principles ultimately led us to a five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
 
-**1.** An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
+**1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.**
 
-**2.** A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
+**2. A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.**
 
-**3.** An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
+**3. An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.**
 
-**4.** A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
+**4. A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.**
 
-**5.** A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
+**5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.**
 
+<br>
 
 ![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
 
