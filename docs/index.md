@@ -109,7 +109,7 @@ We are a small team of teacher-scholars at Primarily Ungergraduate Institutions 
 
 As AI reshapes the education and industry landscape, we have two overarching goals: (1) teach students best practices for effective collaboration with AI, and (2) integrated and organic use of AI to teach subject matter content. At the ESIIL Innovation Summit in May 2026, we created a framework for developing assignments that meet those goals, which we describe in detail below. Currently (Summer/Fall 2026), we are focused on developing additional assignments that meet our twin goals goals, and piloting them in our classrooms.  
 
-Our teaching interests are rooted in environmental biology, but we welcome collaborators from across the environmental field. If you are interested in developing an assignment using our framework, or expanding the ways we integrate AI into our classrooms, please reach out to Jen and James to start the conversation.  
+Our teaching interests are rooted in environmental biology, but we welcome collaborators from across the environmental field. If you have suggestions for improvement, are interested in developing an assignment using our framework, or want to expand the ways we integrate AI into our classrooms, please reach out to Jen and James to start a conversation.  
 
 <!--
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
@@ -134,10 +134,10 @@ Long term:
 -->
 
 
-## The framework 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
+## The framework { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 
-Inspired by other inquiry-based, student-centered approaches to active learning, including Project EDDIE [https://serc.carleton.edu/eddie/index.html] and BCEENET [https://bceenetwork.org/], we are guided by several core principles:
+Inspired by other inquiry-based, student-centered approaches to active learning, including [Project EDDIE] (https://serc.carleton.edu/eddie/index.html) and [BCEENET] (https://bceenetwork.org/), we are guided by several core principles:
 
 **1. Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
 
@@ -152,25 +152,27 @@ Inspired by other inquiry-based, student-centered approaches to active learning,
 **6. Adaptability**: Instructors should be able to teach the full module, shorten it, or substitute a local dataset or tool without changing the core learning goals.
 
 
+<br>
+
 These principles ultimately led us to a five-point framework for the development of AI-enabled, environmentally themed assignments for the undergraduate classroom:
 
-1. An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
+**1.** An environmental theme, such as carbon cycling, water quality, biodiversity, land-use change, environmental justice, or ecosystem resilience.
 
-2. A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
+**2.** A data component built around authentic datasets, ideally from open or shared sources that can support cross-course or cross-institution use.
 
-3. An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
+**3.** An AI-facilitated component in which students use AI to support tasks such as question generation, code drafting, pattern identification, summarization, visualization, or interpretation.
 
-4. A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
+**4.** A human-in-the-loop structure in which student and instructor judgment are required at each stage, especially when evaluating AI-generated claims, code, or interpretations.
 
-5. A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
+**5.** A synthesis and communication component in which students explain findings to an audience such as classmates, community members, decision-makers, or other researchers.
 
+
+![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
 
 <br>
 
-###All modules in the network should be built around the following principles:
 
-
-
+<!--
 
 ##Intentions
 
@@ -181,7 +183,7 @@ Create a collection of modular teaching activites that teach environmental scien
 All modules share four overarching learning goals emphasizing content knowledge, data literacy, AI skills, and communication:
 
 
-![Method or workflow visual](assets/figures/AI-Envirnonment learning goals.png)
+
 
 
 <br>
@@ -196,6 +198,7 @@ All modules share a common structure, beginning with an introduction to the envi
 <br>
 <br>
 
+-->
 
 [Click here](assets/examples/Module_Template_Description.pdf){:target="_blank"} **Module Template**
 
