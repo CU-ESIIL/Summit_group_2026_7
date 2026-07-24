@@ -137,7 +137,7 @@ Long term:
 ## Our Framework { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 
-Inspired by other inquiry-based, student-centered approaches to active learning, including [Project EDDIE] (https://serc.carleton.edu/eddie/index.html) and [BCEENET] (https://bceenetwork.org/), we are guided by several core principles:
+Inspired by other inquiry-based, student-centered approaches to active learning, including [Project EDDIE](https://serc.carleton.edu/eddie/index.html) and [BCEENET](https://bceenetwork.org/), we are guided by several core principles:
 
 **1. Question-driven inquiry**: Each module begins with an environmental question that is scientifically meaningful and suitable for student investigation using available data.
 
