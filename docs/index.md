@@ -45,7 +45,7 @@ public_mode_toggle: true
     [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_7/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 
-[See a completed example](example.md){ .md-button }
+<!--[See a completed example](example.md){ .md-button }-->
 
 ## People { #people .oasis-report-out-context }
 
